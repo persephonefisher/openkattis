@@ -3,8 +3,8 @@ Persephone Fisher's Open Kattis solutions in Python 3.9, licensed under Mozilla 
 
 Watch video walkthroughs of each problem on [my YouTube Channel](https://www.youtube.com/channel/UCJDdOrmYqdDqtTUPGcvFhpg?sub_confirmation=1).
 
-| Problem | My solution | Video walkthrough | Difficulty | Points |
-| ------- | ----------- | :---------------: | :--------: | :----: |
+| Problem | My solution | Walkthrough | Difficulty | Points |
+| ------- | ----------- | :---------: | :--------: | :----: |
 [Hello World!](http://open.kattis.com/problems/hello) | [hello.py](hello.py) | [YouTube](https://youtu.be/uwl9T0m1kzE) | Easy | 1.x
 [I've Been Everywhere, Man](http://open.kattis.com/problems/everywhere) | [everywhere.py](everywhere.py) | [Coming soon]() | Easy | 1.x
 [Nasty Hacks](http://open.kattis.com/problems/nastyhacks)  | [nastyhacks.py](nastyhacks.py) | [Coming soon]() | Easy | 1.x
