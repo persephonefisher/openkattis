@@ -1,5 +1,9 @@
 # Python 3.9 solution for Open Kattis problem "Nasty Hacks" by Persephone Fisher
 
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
 # Use the input() function to accept input as a string, cast as an integer with
 # the int() function, then iterate through each case with the range() function
 # and a for loop.
