@@ -10,4 +10,4 @@ Watch video walkthroughs of each problem on [my YouTube Channel](https://www.you
 [Nasty Hacks](http://open.kattis.com/problems/nastyhacks)  | [nastyhacks.py](nastyhacks.py) | [Coming soon]() | Easy | 1.x
 [Piece of Cake!](http://open.kattis.com/problems/pieceofcake2) | [pieceofcake2.py](pieceofcake2.py) | [YouTube](https://youtu.be/sMZY-Paelpk) | Easy | 1.x
 [Quality-Adjusted-Life-Year](http://open.kattis.com/problems/qaly) | [qaly.py](qaly.py) | [YouTube](https://youtu.be/qOqwZeJAOdI) | Easy | 1.x
-[R2](http://open.kattis.com/problems/r2) | [r2.py](r2.py) | [YouTube](https://youtu.be/S2hxW7qO7YM) | Easy | 1.x
+[R2](http://open.kattis.com/problems/r2) | [r2.py](r2.py) | [YouTube](https://www.youtube.com/watch?v=G236iQhkeiU) | Easy | 1.x
