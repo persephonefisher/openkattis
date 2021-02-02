@@ -1,5 +1,9 @@
 # Python 3.9 solution for Open Kattis problem "I've Been Everywhere, Man" by Persephone Fisher
 
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
 # Accept the input as a string with the input() function, cast the input as an integer with the
 # int() function, then iterate (with a for loop) through n times with the range() function.
 for i in range(int(input())):
