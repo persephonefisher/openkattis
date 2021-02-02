@@ -7,7 +7,7 @@ Watch video walkthroughs of each problem on [my YouTube Channel](https://www.you
 | ------- | ----------- | :---------: | :--------: | :----: |
 [Hello World!](http://open.kattis.com/problems/hello) | [hello.py](hello.py) | [YouTube](https://youtu.be/uwl9T0m1kzE) | Easy | 1.x
 [I've Been Everywhere, Man](http://open.kattis.com/problems/everywhere) | [everywhere.py](everywhere.py) | [Coming soon]() | Easy | 1.x
-[Nasty Hacks](http://open.kattis.com/problems/nastyhacks)  | [nastyhacks.py](nastyhacks.py) | [Coming soon]() | Easy | 1.x
+[Nasty Hacks](http://open.kattis.com/problems/nastyhacks)  | [nastyhacks.py](nastyhacks.py) | [YouTube](https://www.youtube.com/watch?v=rtInHFBTVdM) | Easy | 1.x
 [Piece of Cake!](http://open.kattis.com/problems/pieceofcake2) | [pieceofcake2.py](pieceofcake2.py) | [YouTube](https://youtu.be/sMZY-Paelpk) | Easy | 1.x
 [Quality-Adjusted-Life-Year](http://open.kattis.com/problems/qaly) | [qaly.py](qaly.py) | [YouTube](https://youtu.be/qOqwZeJAOdI) | Easy | 1.x
 [R2](http://open.kattis.com/problems/r2) | [r2.py](r2.py) | [YouTube](https://www.youtube.com/watch?v=G236iQhkeiU) | Easy | 1.x
